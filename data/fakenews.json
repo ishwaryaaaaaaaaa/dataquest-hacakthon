@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "Instagram Begins Testing AI-Generated Comment Suggestions",
+    "content": "Instagram has started testing AI-powered comment suggestions that help users respond faster to posts. The feature analyzes post content and suggests short, relevant replies while giving users full control over what gets posted.",
+    "timestamp": "2026-01-05T09:00:00"
+  },
+  {
+    "id": 2,
+    "title": "Government Proposes New Rules for Influencer Advertising",
+    "content": "A new proposal from regulators aims to make influencer advertising more transparent on social media platforms. Influencers may soon be required to clearly label paid partnerships and sponsored content.",
+    "timestamp": "2026-01-05T09:03:00"
+  },
+  {
+    "id": 3,
+    "title": "WhatsApp Introduces Username-Based Messaging",
+    "content": "WhatsApp announced a new feature allowing users to message others using usernames instead of phone numbers. The update is designed to improve privacy and reduce spam.",
+    "timestamp": "2026-01-05T09:06:00"
+  },
+  {
+    "id": 4,
+    "title": "TikTok Expands Screen Time Controls for Teens",
+    "content": "TikTok has expanded its screen time management tools, allowing parents to set daily limits and quiet hours for teen accounts. The company says the update supports healthier digital habits.",
+    "timestamp": "2026-01-05T09:09:00"
+  },
+  {
+    "id": 5,
+    "title": "New Study Highlights Rise of Short-Form Video Shopping",
+    "content": "A recent study shows a sharp increase in users purchasing products directly through short-form videos on social media platforms. Brands are increasingly partnering with creators to drive in-app shopping.",
+    "timestamp": "2026-01-05T09:12:00"
+  },
+  {
+    "id": 6,
+    "title": "European Union Reviews Data Retention Policies of Social Media Apps",
+    "content": "EU regulators have begun reviewing how long social media companies store user data. The review focuses on compliance with existing privacy laws and potential updates to retention limits.",
+    "timestamp": "2026-01-05T09:15:00"
+  },
+  {
+    "id": 7,
+    "title": "X Tests Community-Curated Trending Topics",
+    "content": "X has launched an experiment where verified community members can help curate trending topics. The company hopes this will reduce misinformation and improve trend quality.",
+    "timestamp": "2026-01-05T09:18:00"
+  },
+  {
+    "id": 8,
+    "title": "Meta Rolls Out Cross-App Messaging Controls",
+    "content": "Meta introduced new controls that allow users to manage messages across Instagram, Facebook, and Messenger from a single settings page. The update aims to simplify communication preferences.",
+    "timestamp": "2026-01-05T09:21:00"
+  },
+  {
+    "id": 9,
+    "title": "India Considers Age Verification for Social Media Accounts",
+    "content": "The Indian government is considering mandatory age verification for social media platforms to improve online safety for minors. Platforms may be required to implement stricter onboarding checks.",
+    "timestamp": "2026-01-05T09:24:00"
+  },
+  {
+    "id": 10,
+    "title": "Snapchat Adds Real-Time Location Sharing Controls",
+    "content": "Snapchat has added new real-time location sharing controls that let users choose exactly who can see their location and for how long. The feature is optional and disabled by default.",
+    "timestamp": "2026-01-05T09:27:00"
+  },
+  {
+    "id": 11,
+    "title": "Social Media Platforms See Growth in AI Content Moderation",
+    "content": "Major social media companies are increasing their reliance on AI-based moderation tools to detect harmful content faster. Experts say human oversight remains critical to avoid false positives.",
+    "timestamp": "2026-01-05T09:30:00"
+  },
+  {
+    "id": 12,
+    "title": "New Regulation Requires Transparency in Algorithmic Feeds",
+    "content": "A newly proposed regulation would require social media platforms to explain how their recommendation algorithms work. The rule aims to give users more insight into why certain content appears in their feeds.",
+    "timestamp": "2026-01-05T09:33:00"
+  },
+  {
+    "id": 13,
+    "title": "Instagram Rolls Out Paid Subscription for Exclusive Creator Content",
+    "content": "Instagram has expanded its paid subscription feature, allowing creators to offer exclusive reels, stories, and live sessions to subscribers. Early creators report higher engagement from dedicated followers.",
+    "timestamp": "2026-01-05T09:36:00"
+  },
+  {
+    "id": 14,
+    "title": "Government Issues Warning on AI-Generated Influencer Content",
+    "content": "Regulators have issued a warning to social media platforms regarding the rise of AI-generated influencers. Platforms may soon be required to clearly label synthetic or AI-created personas.",
+    "timestamp": "2026-01-05T09:39:00"
+  },
+  {
+    "id": 15,
+    "title": "TikTok Experiments with Longer Educational Video Formats",
+    "content": "TikTok is testing longer video formats focused on educational content, allowing creators to upload videos up to 30 minutes long. The move aims to compete with long-form learning platforms.",
+    "timestamp": "2026-01-05T09:42:00"
+  },
+  {
+    "id": 16,
+    "title": "Meta Faces Scrutiny Over Cross-Platform Data Sharing",
+    "content": "Privacy groups have raised concerns over how Meta shares user data across its platforms. Regulators are reviewing whether current practices align with data protection laws.",
+    "timestamp": "2026-01-05T09:45:00"
+  },
+  {
+    "id": 17,
+    "title": "New Social Media Guidelines Target Misinformation During Elections",
+    "content": "Election authorities have released new guidelines requiring social media platforms to act faster on election-related misinformation. Companies may face penalties for delayed content moderation.",
+    "timestamp": "2026-01-05T09:48:00"
+  }
+]
