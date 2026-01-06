@@ -1,30 +1,21 @@
 import json
 import time
-import pathway as pw
 
-# 1. Read fake news JSON
+# Load fake news
 with open("../data/fake_news.json", "r") as f:
-    news_data = json.load(f)
+    news = json.load(f)
 
-# 2. Create an input stream for Pathway
-input_stream = pw.io.python.read(
-    lambda: (
-        {
-            "id": item["id"],
-            "title": item["title"],
-            "content": item["content"],
-            "timestamp": item["timestamp"],
-        }
-        for item in news_data
-    )
-)
+print("Starting live news ingestion...\n")
 
-# 3. Convert stream to Pathway table
-news_table = pw.Table.from_rows(input_stream)
+for item in news:
+    print("NEW NEWS ARRIVED")
+    print("ID:", item["id"])
+    print("TITLE:", item["title"])
+    print("TIME:", item["timestamp"])
+    print("-" * 50)
 
-# 4. Print table updates (just to see something)
-pw.debug.compute_and_print(news_table)
+    # simulate live arrival
+    time.sleep(2)
 
-# 5. Run Pathway
-pw.run()
+print("\nIngestion completed.")
 
